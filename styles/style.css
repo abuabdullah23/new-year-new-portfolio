@@ -267,16 +267,19 @@ footer {
 
 .footer-section {
     display: flex;
-    gap: 50px;
-    justify-content: space-between;
+    gap: 10px;
     text-align: left;
-    width: 100%;
     margin-right: 20px;
+}
+
+.footer-left{
+    margin-right: 200px;
 }
 
 .footer-right {
     text-align: left;
 }
+
 
 .para-footer {
     color: #FFFFFF;
